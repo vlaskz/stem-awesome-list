@@ -6,6 +6,15 @@ Lista provisória:
 
 Tecnologia - [EN] Ben Eater - Subscribe to see tutorial-style videos about electronics, computer architecture, networking, and various other technical subjects. If you want to see more on a particular subject, leave a comment and I'll try my best to add more. https://www.youtube.com/c/BenEater.
 
+Tecnologia - [EN] Ben Eater - Subscribe to see tutorial-style videos about electronics, computer architecture, networking, and various other technical subjects. If you want to see more on a particular subject, leave a comment and I'll try my best to add more. https://www.youtube.com/c/BenEater.
+
+Tecnologia - [PT] Live de Python -  Um canal sobre Python e desenvolvimento de software de uma maneira geral.  https://www.youtube.com/c/Dunossauro
+
+Tecnologia - [PT] KDE Brasil - Grupo de usuários, desenvolvedores, admiradores e demais entusiastas brasileiros, ou lusofalantes do KDE. https://www.youtube.com/c/KDEBrasil/
+
+Tecnologia - [PT] Programação Dinâmica - Canal sobre ciência de dados e etc.  https://www.youtube.com/c/ProgramaçãoDinâmica/
+
+Tecnologia - [PT] - Beer and Code - Canal sobre o ecossistema do Laravel, PHP e afins https://www.youtube.com/c/BeerandCode
 
 
 
