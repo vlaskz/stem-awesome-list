@@ -53,3 +53,5 @@ Tecnologia - [PT] - Filipe Deschamps - Vou fazer você se apaixonar por programa
 
 ##### Adicionado um Issue para facilitar a adição de canais.
 
+>Agradecimentos especiais a nossos primeiros dois contribuidores: SavioSG e Kaetaen!! / Special Thanks for our two first contributors!!!
+
