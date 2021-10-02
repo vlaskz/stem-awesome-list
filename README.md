@@ -23,6 +23,10 @@ Tecnologia - [PT] - Diolinux - Conteúdo gratuito, de qualidade, sobre tecnologi
 
 Tecnologia - [PT] - Filipe Deschamps - Vou fazer você se apaixonar por programação! Vídeo toda segunda às 11h! https://www.youtube.com/c/FilipeDeschamps
 
+Tecnologia - [PT] - Sam Velasquez - Neste canal você encontra variedade em cursos grátis sobre ótimos softwares livres, bem como linguagens de programação e plataformas open source. Sejam muito bem vindos a todos os lugares deste canal e a todos esses vídeos que preparei com muito carinho para melhorar seu 1% diário. https://www.youtube.com/channel/UCn32hhQ120oHIauhiDSPJlg
+
+
+
 
 
 
